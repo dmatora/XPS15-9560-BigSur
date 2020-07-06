@@ -356,7 +356,7 @@
 			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
 			<dict>
 				<key>AAPL,ig-platform-id</key>
-				<data>AAAbWQ==</data>
+				<data>EjRWeA==</data>
 				<key>device-id</key>
 				<data>G1kAAA==</data>
 				<key>disable-external-gpu</key>
@@ -1189,7 +1189,7 @@
 			<key>7C436110-AB2A-4BBB-A880-FE41995C9F82</key>
 			<dict>
 				<key>boot-args</key>
-				<string>-lilubetaall dart=0 darkwake=1 keepsyms=1 gfxrst=1 agdpmod=vit9696 brcmfx-country=#a bpr_probedelay=100 bpr_initialdelay=300 bpr_postresetdelay=300 -disablegfxfirmware igfxonln=1</string>
+				<string>-lilubetaall dart=0 darkwake=1 keepsyms=1 gfxrst=1 agdpmod=vit9696 brcmfx-country=#a bpr_probedelay=100 bpr_initialdelay=300 bpr_postresetdelay=300 -disablegfxfirmware igfxonln=1 vsmcgen=1</string>
 				<key>csr-active-config</key>
 				<data>MAAAAA==</data>
 				<key>fmm-computer-name</key>
